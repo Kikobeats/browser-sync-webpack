@@ -1,8 +1,6 @@
 # browser-sync-webpack
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/browser-sync-webpack.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/Kikobeats/browser-sync-webpack/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/browser-sync-webpack)
-[![Coverage Status](https://img.shields.io/coveralls/Kikobeats/browser-sync-webpack.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/browser-sync-webpack)
 [![Dependency status](https://img.shields.io/david/Kikobeats/browser-sync-webpack.svg?style=flat-square)](https://david-dm.org/Kikobeats/browser-sync-webpack)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/browser-sync-webpack.svg?style=flat-square)](https://david-dm.org/Kikobeats/browser-sync-webpack#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/browser-sync-webpack.svg?style=flat-square)](https://www.npmjs.org/package/browser-sync-webpack)
