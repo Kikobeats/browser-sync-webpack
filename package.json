@@ -2,7 +2,7 @@
   "name": "browser-sync-webpack",
   "description": "BrowserSync under Webpack",
   "homepage": "https://github.com/Kikobeats/browser-sync-webpack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
