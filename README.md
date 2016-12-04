@@ -30,7 +30,7 @@ The setup is pretty easy: just pass the [BrowserSync options](http://www.browser
 In your `webpack.config.js`:
 
 ```javascript
-var BrowserSyncPlugin = require('browser-sync-webpack-plugin');
+var BrowserSyncPlugin = require('browser-sync-webpack');
 
 module.exports = {
   // ...
@@ -56,7 +56,7 @@ So, basically, you are about to proxy the output from the Webpack Dev Server thr
 In your `webpack.config.js`:
 
 ```javascript
-var BrowserSyncPlugin = require('browser-sync-webpack-plugin');
+var BrowserSyncPlugin = require('browser-sync-webpack');
 
 module.exports = {
   // ...
