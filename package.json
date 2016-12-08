@@ -48,7 +48,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "browser-sync": "2.x.x",
-    "webpack": "1 || 2 || ^2.0.0-beta || ^2.1.0-beta"
+    "browser-sync": ">= 2",
+    "webpack": ">= 1"
   }
 }
