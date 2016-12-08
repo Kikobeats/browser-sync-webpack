@@ -1,3 +1,10 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2016-12-08)
+
+* Update peer dependencies version ([3a38cd3](https://github.com/kikobeats/browser-sync-webpack/commit/3a38cd3))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-12-04)
 
