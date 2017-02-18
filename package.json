@@ -26,7 +26,7 @@
   ],
   "dependencies": {
     "ansi-to-html": "~0.6.0",
-    "bs-pretty-message": "~1.0.0",
+    "bs-pretty-message": "~1.0.8",
     "lodash.isfunction": "~3.0.8"
   },
   "devDependencies": {
