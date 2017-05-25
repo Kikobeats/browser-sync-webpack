@@ -49,6 +49,6 @@
   "license": "MIT",
   "peerDependencies": {
     "browser-sync": ">= 2",
-    "webpack": ">= 1"
+    "webpack": ">=2.6.1"
   }
 }
