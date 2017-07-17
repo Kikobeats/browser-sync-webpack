@@ -1,5 +1,7 @@
 # browser-sync-webpack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/browser-sync-webpack.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/browser-sync-webpack.svg?style=flat-square)
 [![Dependency status](https://img.shields.io/david/Kikobeats/browser-sync-webpack.svg?style=flat-square)](https://david-dm.org/Kikobeats/browser-sync-webpack)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/browser-sync-webpack.svg?style=flat-square)](https://david-dm.org/Kikobeats/browser-sync-webpack#info=devDependencies)
